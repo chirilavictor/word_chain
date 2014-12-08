@@ -205,7 +205,7 @@ unless lant3
 									puts
 									puts "Nivel 12" 
 									puts "Lanturi posibile din directia input1: #{p6_inp1.length}"
-									puts "Lanturi posibile din directia input2: #{p6_inp2.length}"
+									puts "Lanturi posibile din directia input2: #{p5_inp2.length}"
 									if lant12
 										lant12.each { |elem| puts "#{elem[0]} - #{elem[1]} - #{elem[2]} - #{elem[3]} - #{elem[4]} - #{elem[5]} - #{elem[6]} - #{elem[7]} - #{elem[8]} - #{elem[9]} - #{elem[10]} - #{elem[11]}" }
 									end
